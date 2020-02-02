@@ -1,0 +1,11 @@
+C:\Users\md rasel\source\repos\Product\Product\bin\Debug\netcoreapp3.1\Product.exe
+C:\Users\md rasel\source\repos\Product\Product\bin\Debug\netcoreapp3.1\Product.deps.json
+C:\Users\md rasel\source\repos\Product\Product\bin\Debug\netcoreapp3.1\Product.runtimeconfig.json
+C:\Users\md rasel\source\repos\Product\Product\bin\Debug\netcoreapp3.1\Product.runtimeconfig.dev.json
+C:\Users\md rasel\source\repos\Product\Product\bin\Debug\netcoreapp3.1\Product.dll
+C:\Users\md rasel\source\repos\Product\Product\bin\Debug\netcoreapp3.1\Product.pdb
+C:\Users\md rasel\source\repos\Product\Product\obj\Debug\netcoreapp3.1\Product.csprojAssemblyReference.cache
+C:\Users\md rasel\source\repos\Product\Product\obj\Debug\netcoreapp3.1\Product.AssemblyInfoInputs.cache
+C:\Users\md rasel\source\repos\Product\Product\obj\Debug\netcoreapp3.1\Product.AssemblyInfo.cs
+C:\Users\md rasel\source\repos\Product\Product\obj\Debug\netcoreapp3.1\Product.dll
+C:\Users\md rasel\source\repos\Product\Product\obj\Debug\netcoreapp3.1\Product.pdb
