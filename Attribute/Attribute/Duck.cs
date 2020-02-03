@@ -4,7 +4,9 @@ using System.Text;
 
 namespace Attribute
 {
-    class Car : Vehicle
+    class Duck:Animal
     {
+        //Attribute
+        public int _feather;
     }
 }

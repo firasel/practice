@@ -4,7 +4,9 @@ using System.Text;
 
 namespace Attribute
 {
-    class Car : Vehicle
+    public class BankAccount
     {
+        public string _name;
+        public string _balance;
     }
 }

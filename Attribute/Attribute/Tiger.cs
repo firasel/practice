@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Attribute
 {
-    class Car : Vehicle
+    class Tiger:Animal
     {
     }
 }

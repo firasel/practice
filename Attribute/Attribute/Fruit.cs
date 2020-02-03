@@ -4,7 +4,9 @@ using System.Text;
 
 namespace Attribute
 {
-    class Car : Vehicle
+    public class Fruit
     {
+        public string _vitamin;
+        public int _seed;
     }
 }

@@ -4,7 +4,11 @@ using System.Text;
 
 namespace Attribute
 {
-    class Car : Vehicle
+    class Alarm:Clock
     {
+        //Method
+        public void Stop()
+        {
+        }
     }
 }
