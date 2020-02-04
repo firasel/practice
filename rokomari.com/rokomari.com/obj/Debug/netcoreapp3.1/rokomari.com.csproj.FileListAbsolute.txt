@@ -1,0 +1,11 @@
+C:\Users\md rasel\source\repos\rokomari.com\rokomari.com\bin\Debug\netcoreapp3.1\rokomari.com.exe
+C:\Users\md rasel\source\repos\rokomari.com\rokomari.com\bin\Debug\netcoreapp3.1\rokomari.com.deps.json
+C:\Users\md rasel\source\repos\rokomari.com\rokomari.com\bin\Debug\netcoreapp3.1\rokomari.com.runtimeconfig.json
+C:\Users\md rasel\source\repos\rokomari.com\rokomari.com\bin\Debug\netcoreapp3.1\rokomari.com.runtimeconfig.dev.json
+C:\Users\md rasel\source\repos\rokomari.com\rokomari.com\bin\Debug\netcoreapp3.1\rokomari.com.dll
+C:\Users\md rasel\source\repos\rokomari.com\rokomari.com\bin\Debug\netcoreapp3.1\rokomari.com.pdb
+C:\Users\md rasel\source\repos\rokomari.com\rokomari.com\obj\Debug\netcoreapp3.1\rokomari.com.csprojAssemblyReference.cache
+C:\Users\md rasel\source\repos\rokomari.com\rokomari.com\obj\Debug\netcoreapp3.1\rokomari.com.AssemblyInfoInputs.cache
+C:\Users\md rasel\source\repos\rokomari.com\rokomari.com\obj\Debug\netcoreapp3.1\rokomari.com.AssemblyInfo.cs
+C:\Users\md rasel\source\repos\rokomari.com\rokomari.com\obj\Debug\netcoreapp3.1\rokomari.com.dll
+C:\Users\md rasel\source\repos\rokomari.com\rokomari.com\obj\Debug\netcoreapp3.1\rokomari.com.pdb
