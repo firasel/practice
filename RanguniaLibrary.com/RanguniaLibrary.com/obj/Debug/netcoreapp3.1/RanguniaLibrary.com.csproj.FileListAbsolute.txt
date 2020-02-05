@@ -1,0 +1,11 @@
+C:\Users\md rasel\source\repos\RanguniaLibrary.com\RanguniaLibrary.com\bin\Debug\netcoreapp3.1\RanguniaLibrary.com.exe
+C:\Users\md rasel\source\repos\RanguniaLibrary.com\RanguniaLibrary.com\bin\Debug\netcoreapp3.1\RanguniaLibrary.com.deps.json
+C:\Users\md rasel\source\repos\RanguniaLibrary.com\RanguniaLibrary.com\bin\Debug\netcoreapp3.1\RanguniaLibrary.com.runtimeconfig.json
+C:\Users\md rasel\source\repos\RanguniaLibrary.com\RanguniaLibrary.com\bin\Debug\netcoreapp3.1\RanguniaLibrary.com.runtimeconfig.dev.json
+C:\Users\md rasel\source\repos\RanguniaLibrary.com\RanguniaLibrary.com\bin\Debug\netcoreapp3.1\RanguniaLibrary.com.dll
+C:\Users\md rasel\source\repos\RanguniaLibrary.com\RanguniaLibrary.com\bin\Debug\netcoreapp3.1\RanguniaLibrary.com.pdb
+C:\Users\md rasel\source\repos\RanguniaLibrary.com\RanguniaLibrary.com\obj\Debug\netcoreapp3.1\RanguniaLibrary.com.csprojAssemblyReference.cache
+C:\Users\md rasel\source\repos\RanguniaLibrary.com\RanguniaLibrary.com\obj\Debug\netcoreapp3.1\RanguniaLibrary.com.AssemblyInfoInputs.cache
+C:\Users\md rasel\source\repos\RanguniaLibrary.com\RanguniaLibrary.com\obj\Debug\netcoreapp3.1\RanguniaLibrary.com.AssemblyInfo.cs
+C:\Users\md rasel\source\repos\RanguniaLibrary.com\RanguniaLibrary.com\obj\Debug\netcoreapp3.1\RanguniaLibrary.com.dll
+C:\Users\md rasel\source\repos\RanguniaLibrary.com\RanguniaLibrary.com\obj\Debug\netcoreapp3.1\RanguniaLibrary.com.pdb
